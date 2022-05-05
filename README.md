@@ -1,7 +1,7 @@
 # Ciko-Discord-Bot
 This is simple Discord bot for rolling dice, playing local audio file after certain amount of time, clearing messages. 
 ## Installing the bot
-  * Download ZIP file or clone repository with https://github.com/mcindric/Ciko-Discord-Bot.git
+  * Download ZIP file or clone repository with `git clone https://github.com/mcindric/Ciko-Discord-Bot.git Ciko-Discord-Bot-main`
   * Install [ffmpeg](https://ffmpeg.org/)
   * Install [node.js](https://nodejs.org/en/)
   * install [discord.js](https://discord.js.org/#/) module in folder where bot is located
