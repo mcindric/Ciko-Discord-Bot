@@ -10,7 +10,7 @@ module.exports = {
 }
 function rndPick(min, max) {
     var array1 = [];
-    var index
+    var index;
     for (index = 0; min <= max; index++) {
         array1[index] = min;
         min++;
